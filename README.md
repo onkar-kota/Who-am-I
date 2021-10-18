@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **multiple projrcts**
 
-- 🌱 I’m currently learning **Machine learning,BlockChain Technology, Data Science.**
+- 🌱 I’m currently learning **Machine learning,BlockChain Technology, Data Science, Data Analysis.**
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
